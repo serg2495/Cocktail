@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Text" parent="TextAppearance.AppCompat"/>
+    <style name="Text.Family">
+        <item name="fontFamily">@font/didact_gothic</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Text.Family.Head">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">@color/text_color_head</item>
+    </style>
+    <style name="Text.Family.Add">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/text_color_add</item>
+    </style>
+    <style name="Text.Family.Photo">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="Text.Family.Description">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
